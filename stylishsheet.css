@@ -17,18 +17,12 @@ p {
 }
 
 .css-selector {
-  font-family: 'Sacramento';
+  font-family: 'Antic Slab';
 }
 
 p1 {
     
-    font-family: 'Sacramento';
+    font-family: 'Antic Slab';
     font-size: 48px;
     
 }
-
-<style>
-  .space {
-     margin-bottom: 3cm;
-  }
-</style>

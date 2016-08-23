@@ -4,9 +4,14 @@ body {
     background-color: #90C7D4;
 }
 
+.css-selector {
+  font-family: 'Londrina Outline';
+}
+
 h1 {
     color: navy;
-    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    font-family: 'Londrina Outline';
+    font-size: 40px;
     margin-left: 20px;
 }
 
@@ -27,13 +32,5 @@ p1 {
     
 }
 
-.css-selector {
-  font-family: 'Londrina Outline';
-}
 
-p1 {
-    
-    font-family: 'Londrina Outline';
-    font-size: 40px;
-    
-}
+

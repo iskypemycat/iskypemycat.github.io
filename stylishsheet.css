@@ -26,3 +26,14 @@ p1 {
     font-size: 20px;
     
 }
+
+.css-selector {
+  font-family: 'Londrina Outline';
+}
+
+p1 {
+    
+    font-family: 'Londrina Outline';
+    font-size: 40px;
+    
+}

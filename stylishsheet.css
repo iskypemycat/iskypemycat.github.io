@@ -4,24 +4,16 @@ body {
 }
 
 .css-selector {
-  font-family: 'Cedarville Cursive';
+  font-family: 'Baloo Tamma';
 }
 
 h1 {
     color: #B96017;
-    font-family: 'Cedarville Cursive';
+    font-family: 'Baloo Tamma';
     font-size: 100px;
     line-height: 1.2em;
 }
 
-.css-selector {
-  font-family: 'Baloo Tamma';
-}
-
-h2 {
-    font-family: 'Baloo Tamma';
-    font-size: 70px;
-}
 
 .css-selector {
   font-family: 'Cutive Mono';

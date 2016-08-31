@@ -30,4 +30,12 @@ a {
     text-decoration: none;
 }
 
+article {
+    font-family: 'Cutive Mono';
+    font-size: 30px;
+    margin-left: 170px;
+    padding: 1em;
+    overflow: hidden;
+}
+
 

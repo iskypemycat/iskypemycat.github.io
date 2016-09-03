@@ -39,6 +39,7 @@ a {
 
 article {
     font-family: 'Cutive Mono';
+    text-align:justify;
     font-size: 30px;
     width: 700px;
     padding: 1em;

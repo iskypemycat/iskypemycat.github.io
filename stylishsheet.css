@@ -55,13 +55,12 @@ li a {
     background-color: #dddddd;
 }
 
-li.first{
-   border-top-left-radius:15px;
-   border-bottom-left-radius:15px;
+.round_left {
+    border-radius: 15px 0 0 15px;   
 }
-li.last{
-    border-top-right-radius:15px;
-   border-bottom-right-radius:15px;
+
+.round_right {
+    border-radius: 0 15px 15px 0;   
 }
 
 article {

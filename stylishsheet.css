@@ -51,8 +51,17 @@ li {
 
 li a {
     display: block;
-    padding: 8px;
+    padding: 12px;
     background-color: #dddddd;
+}
+
+li.first{
+   border-top-left-radius:15px;
+   border-bottom-left-radius:15px;
+}
+li.last{
+    border-top-right-radius:15px;
+   border-bottom-right-radius:15px;
 }
 
 article {

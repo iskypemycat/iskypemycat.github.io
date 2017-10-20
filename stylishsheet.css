@@ -65,7 +65,12 @@ li a {
     border-radius: 0 15px 15px 0;   
 }
 
-img {
+.image1 {
+	width: 300px;
+	padding: 22px;
+}
+
+.image2 {
 	width: 400px;
 	padding: 22px;
 }

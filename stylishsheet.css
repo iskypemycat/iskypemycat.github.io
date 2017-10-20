@@ -47,6 +47,8 @@ ul {
 
 li {
     float: left;
+    font-family: 'Cutive Mono';
+    font-size: 30px;
 }
 
 li a {

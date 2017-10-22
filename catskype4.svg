@@ -10,8 +10,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   viewBox="0 0 294.38742 222.36807"
-   height="62.75721mm"
+   viewBox="0 0 294.38742 204.65152"
+   height="57.75721mm"
    width="83.082672mm"
    inkscape:version="0.91 r13725"
    sodipodi:docname="catskype4.svg">
@@ -28,9 +28,9 @@
      inkscape:window-height="667"
      id="namedview31"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="165.83562"
-     inkscape:cy="155.25254"
+     inkscape:zoom="2"
+     inkscape:cx="130.87516"
+     inkscape:cy="95.25254"
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
@@ -75,14 +75,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(0.99862164,0.05248634,-0.05248634,0.99862164,-314.82114,-558.08574)"
+     transform="matrix(0.99862164,0.05248634,-0.05248634,0.99862164,-314.82114,-575.80229)"
      id="layer1">
     <g
        transform="matrix(0.95068014,-0.05139733,0.05139733,0.95068014,-25.54348,39.589232)"
        id="g4324">
       <g
          id="g3394"
-         transform="translate(-62.460778,48.9249)">
+         transform="translate(-62.489757,68.235229)">
         <rect
            transform="matrix(0.99999887,0.00150097,-0.00150097,0.99999887,0,0)"
            ry="11.144446"

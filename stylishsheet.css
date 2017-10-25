@@ -57,11 +57,10 @@ ul {
 
 
 li {
+	display: inline;
     float: left;
     font-family: 'Amiko';
 	font-size: 30px;
-	padding-right: .6em;
-	margin: 1em 0;
 }
 
 

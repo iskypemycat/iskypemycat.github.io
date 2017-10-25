@@ -56,141 +56,26 @@ ul {
 }
 
 
-
-#navigation
-{
-	display: block;
-	text-align: center;
-	font-family: "Cutive Mono",sans-serif;
-	font-size: 30px;
+li {
+    float: left;
+    font-family: 'Amiko';
+    font-size: 30px;
 }
 
-.sticktobottom
-{
-	position: absolute;
-	bottom: 100px;
+/*li a {
+    display: block;
+    padding: 12px;
+    background-color: #dddddd;
+}*/
+
+.round_left {
+    border-radius: 15px 0 0 15px;   
 }
 
-.sticktotop
-{
-	position: fixed;
-	left: 0px;
-	right: 0px;
-	width: 100%;
-	top: 50px;
+.round_right {
+    border-radius: 0 15px 15px 0;   
 }
 
-.nav
-{
-	display: block;
-	height: 60px;
-	position: absolute;
-}
-
-#container .nav
-{
-	-webkit-transition: all 0.4s ease-out;
-  	-moz-transition: all 0.4s ease-out;
-  	-o-transition: all 0.4s ease-out;
- 	transition: all 0.4s ease-out;
-}
-
-.nav-left
-{
-	width: 500px;
-	left: 50%;
-	margin-left: -550px;
-	text-align: right;
-}
-
-.nav-right
-{
-	width: 500px;
-	left: 50%;
-	margin-left: 50px;
-	text-align: left;
-}
-
-.nav-center
-{
-	width: 60px;
-	left: 50%;
-	margin-left: -30px;
-	background-image: url("../images/bow.png");
-	background-repeat: no-repeat;
-	cursor: pointer;
-}
-
-.red .nav-center
-{
-	background-position: bottom left;
-}
-
-.blue .nav-center
-{
-	background-position: top left;
-}
-
-.nav .item
-{
-	display: inline-block;
-	margin-left: 20px;
-	margin-right: 20px;
-	margin-top: 20px;
-}
-
-.nav .item.active
-{
-	border-bottom: 1px solid #00C;
-}
-
-.blue, .blue a, a.blue
-{
-	color: #0000cc;
-}
-
-.red, .red a, a.red
-{
-	color: #ff0f0f;
-}
-
-.stitch
-{
-	width: 8px;
-	height: 8px;
-	background-image: url("../images/stitch.png");
-}
-
-#navigation .arrow_left, #navigation .arrow_right
-{
-	width: 44px;
-	height: 14px;
-	background-position: top center;
-	background-repeat: no-repeat;
-	cursor: pointer;
-}
-
-#navigation .arrow_left
-{
-	background-image: url("../images/arrow_left.png");
-	margin-right: 18px;
-}
-
-#navigation .arrow_right
-{
-	background-image: url("../images/arrow_right.png");
-	margin-left: 40px;
-}
-
-.blue .stitch
-{
-	background-position: top left;
-}
-
-.red .stitch
-{
-	background-position: bottom left;
-}
 
 
 article {
@@ -204,22 +89,4 @@ article {
     margin-right:auto;
 }
 
-/*li {
-    float: left;
-    font-family: 'Amiko';
-    font-size: 30px;
-}
 
-li a {
-    display: block;
-    padding: 12px;
-    background-color: #dddddd;
-}
-
-.round_left {
-    border-radius: 15px 0 0 15px;   
-}
-
-.round_right {
-    border-radius: 0 15px 15px 0;   
-}*/

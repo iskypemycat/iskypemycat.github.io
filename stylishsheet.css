@@ -60,15 +60,9 @@ ul {
 #navigation
 {
 	display: block;
-	width: 100%;
 	text-align: center;
 	font-family: "Cutive Mono",sans-serif;
 	font-size: 30px;
-	font-weight: 500;
-	letter-spacing: 1px;
-	z-index: 100;
-	text-decoration: none;
-	height: 60px;
 }
 
 .sticktobottom

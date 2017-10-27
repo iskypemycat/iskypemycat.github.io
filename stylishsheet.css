@@ -65,6 +65,10 @@ li {
 	padding: 30px;
 }
 
+li a {
+	color: #796472;
+}
+
 
 .round_left {
     border-radius: 15px 0 0 15px;   

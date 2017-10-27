@@ -16,7 +16,7 @@ h1 {
 h2 {
     color: #B96017;
     font-family: 'Cedarville Cursive';
-    font-size: 70px;
+    font-size: 60px;
 }
 
 
@@ -46,8 +46,7 @@ ul {
 }
 
 .image1 {
-	width: 300px;
-	padding: 22px;
+	width: 250px;
 }
 
 .image2 {

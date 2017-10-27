@@ -66,11 +66,11 @@ li {
 }
 
 li a {
-	color: #FF5DD2;
+	color: #FF8DD2;
 }
 
 li a:hover {
-    color: #FF8DD2;
+    color: #FF5DD2;
 }
 
 

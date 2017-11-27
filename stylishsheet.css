@@ -7,6 +7,23 @@ body {
   font-family: 'Amiko';
 }
 
+
+.css-selector {
+  font-family: 'Poiret One';
+}
+
+.css-selector {
+  font-family: 'Dosis', sans-serif;
+}
+
+.css-selector {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.css-selector {
+  font-family: 'Cutive Mono';
+}
+
 h1 {
     color: #B96017;
     font-family: 'Amiko';
@@ -27,7 +44,7 @@ h2 {
 
 p1 {
     
-    font-family: 'Cutive Mono';
+    font-family: 'Varela Round';
     font-size: 30px;
     padding: 100px;
     color: #B96017;
@@ -87,7 +104,7 @@ li a:hover {
 
 
 article {
-    font-family: 'Cutive Mono';
+    font-family: 'Varela Round';
     text-align:justify;
     font-size: 30px;
     width: 700px;
@@ -95,6 +112,8 @@ article {
     overflow: hidden;
     margin-left:auto;
     margin-right:auto;
+    color: #B96017;
+
 }
 
 

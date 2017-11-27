@@ -101,7 +101,9 @@ li a:hover {
     border-radius: 0 15px 15px 0;   
 }
 
-
+::selection {
+       background-color: #FFA;
+       color: #000;
 
 article {
     font-family: 'Varela Round';
